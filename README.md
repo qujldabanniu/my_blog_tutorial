@@ -1,0 +1,2 @@
+# my_blog_tutorial
+my_django_test_blog
